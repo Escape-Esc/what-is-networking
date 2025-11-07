@@ -1,0 +1,26 @@
+# Generated ebook files
+*.pdf
+*.epub
+*.mobi
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build / tooling
+dist/
+build/
+*.log
+
+# Node / Python env (kalau pakai)
+node_modules/
+.env
+venv/
+__pycache__/
+
+# Misc
+*.aux
+*.out
+*.toc
