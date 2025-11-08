@@ -10,7 +10,7 @@
 
 ## 📚 Table of Contents
 1. [Introduction to Networking](chapter1_introduction.md)
-2. [Network Basics](chapter2_network_basics.md)
+2. [Network Basics](chapter2_Internet.md)
 
 ---
 
