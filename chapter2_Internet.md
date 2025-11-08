@@ -68,5 +68,6 @@ Sebenarnya Internet juga sebuah jaringan. Tapi... agar lebih tepat paham tentang
 INTERNET adalah sebuah JARINGAN raksasa yang terdiri dari banyak sekali jaringan kecil di dalamnya.
 Contohnya ada dibawah ini:
 
-![Alt text](Internet.jpg)
+![Alt text](images/Internet.jpg)
+
 
