@@ -75,9 +75,9 @@ Contohnya ada dibawah ini:
 ![Alt text](images/Internet.jpg)
 
 
-Singkatnya internet yang kalian gunakan terhubung pada suatu jaringan besar, yang menjadi transportasi tujuan kalian
-sebagai contoh, saya mengirimkan pesan whatsapp ke orang lain, tanpa internet saya yakin. Pesan saya tidak akan tersampaikan
-pada dasarnya perangkat kita akan saling terhubung dengan perangkat lain. Namun dibutuhkan sebuah alamat untuk pesan kita sampai dengan tepat. Nah alamat yang ada dalam konteks komputasi yaitu Ip Address, Address MAC. tapi itu kita bahas nanti..
+Singkatnya internet yang kalian gunakan terhubung pada suatu jaringan besar, yang menjadi transportasi tujuan kalian,
+sebagai contoh, saya mengirimkan pesan whatsapp ke orang lain, tanpa internet saya yakin. Pesan saya tidak akan tersampaikan.
+Pada dasarnya perangkat kita akan saling terhubung dengan perangkat lain. Namun dibutuhkan sebuah alamat untuk pesan kita sampai dengan tepat. Nah alamat yang ada dalam konteks komputasi yaitu Ip Address, Address MAC. tapi itu kita bahas nanti..
 
 Paham belum??? kalo belum banyak materi tentang internet di google. wkwkwk..
 
@@ -88,3 +88,4 @@ Paham belum??? kalo belum banyak materi tentang internet di google. wkwkwk..
 <p align="center">
 Selamat kamu naik level 1. kita akan terus naik satu langkah.
 </p>
+
